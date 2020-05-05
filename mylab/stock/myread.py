@@ -9,8 +9,6 @@ ts.set_token('29eaf3bcac23df4c6d025de157ab2d53beead3391fbe6e83b4ebcb6c')
 pro = ts.pro_api()
 
 from matplotlib.pylab import date2num
-import seaborn as sns
-sns.set()
 #mpl.rcParams['font.family'] = 'sans-serif'
 #mpl.rcParams['font.sans-serif'] = 'SimHei'  # Chinese 
 

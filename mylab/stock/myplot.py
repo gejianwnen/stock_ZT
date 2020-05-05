@@ -16,8 +16,7 @@ from matplotlib import ticker
 from matplotlib.pylab import date2num
 import matplotlib.gridspec as gridspec
 import matplotlib as mpl
-import seaborn as sns
-sns.set()
+
 #mpl.rcParams['font.family'] = 'sans-serif'
 #mpl.rcParams['font.sans-serif'] = 'SimHei'  # Chinese 
 from mylab.stock.myfeature import getMa

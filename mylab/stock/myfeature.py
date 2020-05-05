@@ -7,8 +7,7 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 from matplotlib.pylab import date2num
-import seaborn as sns
-sns.set()
+
 #mpl.rcParams['font.family'] = 'sans-serif'
 #mpl.rcParams['font.sans-serif'] = 'SimHei'  # Chinese 
 

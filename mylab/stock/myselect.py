@@ -6,8 +6,7 @@ import numpy as np
 
 import mpl_finance as mpf
 import matplotlib.pyplot as plt
-import seaborn as sns
-sns.set()
+
 #mpl.rcParams['font.family'] = 'sans-serif'
 #mpl.rcParams['font.sans-serif'] = 'SimHei'  # Chinese 
 
